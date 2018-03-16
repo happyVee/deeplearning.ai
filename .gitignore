@@ -1,15 +1,3 @@
-# Windows:
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Python:
-*.so
-*.egg
-*.egg-info
-dist
-build
-
 # My configurations:
 *.png
 *.gif
@@ -18,3 +6,4 @@ build
 *.h5
 *.pyc
 *.DS_Store
+__MACOSX
